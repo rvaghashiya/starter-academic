@@ -24,10 +24,7 @@ tags:
   - Applications
   - Smart University
   - Academic
-  - Research
   - IoT
-  - Smart University
-  - Applications
 
 categories:
   - Demo

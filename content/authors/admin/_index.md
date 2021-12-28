@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=2PrpeVAAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/raj-98
+  link: https://github.com/rvaghashiya
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rajkumar-vaghashiya/

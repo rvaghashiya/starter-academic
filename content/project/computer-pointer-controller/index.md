@@ -23,7 +23,6 @@ tags:
   - Eye Gaze Tracking
   - Deep Learning
   - Edge AI
-  - Other
 
 categories:
   - Demo

@@ -23,8 +23,6 @@ tags:
   - Transfer Learning
   - Research
   - Academic
-  - Research
-  - Deep Learning
   - Pathology
 
 categories:

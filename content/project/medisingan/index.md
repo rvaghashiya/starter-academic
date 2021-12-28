@@ -27,7 +27,6 @@ tags:
   - Computer Vision
   - Deep Learning
   - Research
-  - Other
 
 categories:
   - Demo

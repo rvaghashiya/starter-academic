@@ -28,7 +28,6 @@ tags:
   - Colorimetry Analysis
   - Research
   - Academic
-  - Research
   - ELISA
 
 categories:

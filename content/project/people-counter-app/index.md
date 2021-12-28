@@ -20,7 +20,6 @@ tags:
   - People Counter
   - Deep Learning
   - Edge AI
-  - Other
 
 categories:
   - Demo
