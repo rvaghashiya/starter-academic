@@ -73,6 +73,7 @@ experience:
     date_start: '2019-06-01'
     date_end: '2019-07-31'
     description: |2-
+    
         Context-Sensitive Semantic Search Tool
               
         * Developed a test-case similarity search tool for impact analysis in software testing, with an accuracy of ∼ 95-98 %, that landed the first prize in Capgemini iSprint 2019 (West Division)
