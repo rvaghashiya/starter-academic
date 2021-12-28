@@ -28,8 +28,8 @@ tags:
   - Deep Learning
   - Research
 
-<!-- categories:
-  - Demo -->
+# categories:
+#  - Demo
 
 authors:
 - admin
