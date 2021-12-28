@@ -26,7 +26,8 @@ tags:
   - Pathology
 
 <!-- categories:
-  - Demo -->
+  - Demo 
+-->
 
 authors:
 - admin
