@@ -25,9 +25,9 @@ tags:
   - Academic
   - Pathology
 
-<!-- categories:
-  - Demo 
--->
+# categories:
+#  - Demo 
+
 
 authors:
 - admin
