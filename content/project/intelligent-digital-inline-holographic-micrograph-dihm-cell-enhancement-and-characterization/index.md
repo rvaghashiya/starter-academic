@@ -63,7 +63,7 @@ Implementation on a resource-constrained device to develop a cheap, reliable and
 - Segment cell-lines in DIH micrograph; performs signal enhancement using CNN-based autoencoder, followed by the cell-line characterization
 - ROC-AUC: >0.98 for RBC, WBC, and microbeads; >0.88 for cancer cells HepG2 and MCF7
 - Easy accommodation of newer cell-lines. Python, TensorFlow, OpenCV
-- Preliminary work [published](https://ieeexplore.ieee.org/document/9374330) at the 8th IEEE ICHI 
+- Preliminary work [published](https://ieeexplore.ieee.org/document/9374330) at the 8th IEEE International Conference on Healthcare Informatics (ICHI) 2020
 
 {{< figure src="img1.png" title="Breast Cancer Disease Statistics" >}}
 
