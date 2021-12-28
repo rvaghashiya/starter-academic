@@ -26,8 +26,8 @@ tags:
   - Academic
   - IoT
 
-<!-- categories:
-  - Demo -->
+# categories:
+#  - Demo
 
 external_link: 
 
