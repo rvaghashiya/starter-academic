@@ -1,4 +1,11 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Academic Website of Rajkumar Vaghashiya
+Hi there! I'm Rajkumar Vaghashiya, a recent graduate from the Dept of CSE, School of Technology, Pandit Deendayal Energy University.
+
+The website is built by the Academic theme for [**Hugo**](https://gohugo.io/) and [**Wowchemy**](https://wowchemy.com).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b60ec7a5-0b55-48f6-9247-b7cc9366a549/deploy-status)](https://app.netlify.com/sites/rajkumar-vaghashiya/deploys)
+
+<!-- # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
 
@@ -46,4 +53,4 @@ We're an open source movement that depends on your support to stay online and th
 * [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0&#x2F;)
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.3&#x2F;)
 * [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.2&#x2F;)
-<!--END_SECTION:news-->
+END_SECTION:news -->

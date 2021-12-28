@@ -17,14 +17,16 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
   
 design:
   columns: '2'
 ---
+
+I am always interested in learning and discussing latest research and collaborating on exciting interdisciplinary projects. Please feel free to reach out to me at the following:

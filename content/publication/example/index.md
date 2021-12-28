@@ -8,6 +8,8 @@ authors:
 - admin
 - Robert Ford
 
+active: false
+
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
