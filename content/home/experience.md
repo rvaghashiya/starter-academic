@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Clinical Research Intern
+  - title: Clinical AI Research Intern
     company: Forus Health Pvt. Ltd.
     company_url: 'https://www.forushealth.com/'
     company_logo: org-forus_logo
     location: Bengaluru, IN
-    date_start: '2021-02-16'
+    date_start: '2021-01-16'
     date_end: '2021-06-30'
     description: |2-
         
@@ -50,7 +50,7 @@ experience:
         
         * Course: AI for Everyone (20IC206T)
     
-  - title: Clinical Research Intern
+  - title: Clinical AI Research Intern
     company: Forus Health Pvt. Ltd.
     company_url: 'https://www.forushealth.com/'
     company_logo: org-forus_logo
