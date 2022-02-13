@@ -23,29 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org/verify/specialization/LAENLEED7GJH
-  date_end: "2020-07-15"
-  date_start: "2020-05-17"
+- certificate_url: https://www.credly.com/go/k3qSHcRz
+  date_end: "2022-02-01"
+  date_start: "2022-02-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: AI for Medicine Specialization
-  url: ""
-- certificate_url: https://www.coursera.org/verify/specialization/BTYQ6FHHB5J8
-  date_end: "2021-04-12"
-  date_start: "2021-02-07"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Generative Adversarial Networks (GANs) Specialization
-  url: ""
-- certificate_url: http://confirm.udacity.com/ACXAQDHX
-  date_end: "2020-07-10"
-  date_start: "2019-12-16"
-  description: ""
-  organization: Udacity
-  organization_url: https://www.udacity.com/
-  title: Intel Edge AI for IoT Developers Nanodegree
+  organization: IBM
+  organization_url: https://www.ibm.com/us-en/
+  title: IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
   url: ""
 - certificate_url: https://coursera.org/verify/specialization/KX2SUNG642T5
   date_end: "2021-09-21"
@@ -55,6 +39,31 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning Engineering for Production (MLOps) Specialization
   url: ""
+- certificate_url: https://www.coursera.org/verify/specialization/BTYQ6FHHB5J8
+  date_end: "2021-04-12"
+  date_start: "2021-02-07"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Generative Adversarial Networks (GANs) Specialization
+  url: ""
+- certificate_url: https://www.coursera.org/verify/specialization/LAENLEED7GJH
+  date_end: "2020-07-15"
+  date_start: "2020-05-17"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: AI for Medicine Specialization
+  url: ""
+- certificate_url: http://confirm.udacity.com/ACXAQDHX
+  date_end: "2020-07-10"
+  date_start: "2019-12-16"
+  description: ""
+  organization: Udacity
+  organization_url: https://www.udacity.com/
+  title: Intel Edge AI for IoT Developers Nanodegree
+  url: ""
+
 
 # - certificate_url: https://www.coursera.org
 #   date_end: ""

@@ -32,12 +32,10 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         
-        Screening Systemic Disorders via Retinal Vascular Biomarkers
-        
         *	Analyzed the clinical applicability of digital retinal biomarkers in the detection of systemic disorders (such as Bipolar and Alzheimer’s) 
         *	Developed an explainable ML pipeline for the diagnosis of Diabetic Retinopathy (DR) and Hypertensive Retinopathy (HTR) using digital biomarkers extracted from the retinal vasculature. Python, OpenCV       
         *	Achieved ROC-AUC ∼ 0.70 for DR detection and stage-grading; 0.98 for HTR detection; 0.89 for HTR stage-grading
-        *	Assessed the state of clinically applicable AI in retinal imaging-based teleophthalmology services in India
+        *	Assessed the applicability of clinical AI in retinal imaging-based teleophthalmology services in India
         
   - title: Teaching Assistant
     company: Pandit Deendayal Energy University
@@ -61,10 +59,9 @@ experience:
         
         Screening Systemic Disorders via Retinal Vascular Biomarkers
                
-        *	Developed a clinician-in-the-loop-based AI pipeline for the extraction and quantification of retinal vascular parameters with results within ±8% of the research benchmark tool SIVA. Python, OpenCV, Django
+        *	Developed a clinician-in-the-loop AI pipeline for the extraction and quantification of retinal vascular parameters with results within ±8% of the research benchmark tool SIVA. Python, OpenCV, Django
         *	Organized weekly brainstorming sessions for ideation, need analysis, and literature review on Dry Eye Disorder screening and anterior segment imaging
-        *	Participated in clinical immersion to analyze the confounding factors in the grading criteria used by specialists
-        *	Formulated a decision support system plan to address the grading issues in Retinopathy of Prematurity
+        *	Analyzed confounding factors in the grading criteria used by Retinopathy of Prematurity specialists and formulated a decision support system plan to address these issues
     
   - title: Machine Learning Intern
     company: Capgemini Technology Services Ltd.
