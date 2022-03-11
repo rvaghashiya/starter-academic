@@ -15,7 +15,7 @@ authors:
   - Mohendra Roy
     
 doi: 10.1109/ICHI48887.2020.9374330
-publication: In 2020 IEEE International Conference on Healthcare Informatics (ICHI).
+publication: In 2020 IEEE International Conference on Healthcare Informatics (ICHI)
 
 url_pdf: '/uploads/preprint-an-optimized-neural-network-architecture.pdf'
 

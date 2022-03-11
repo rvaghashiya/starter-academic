@@ -20,7 +20,7 @@ authors:
   - Nishant Doshi
  
 doi: https://doi.org/10.30534/ijatcse/2019/2481.62019
-publication: In International Journal of Advanced Trends in Computer Science and Engineering 2019, 8(1.6), 153.
+publication: In International Journal of Advanced Trends in Computer Science and Engineering 2019, 8(1.6), 153
 draft: false
 featured: true
 tags:

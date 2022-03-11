@@ -14,9 +14,9 @@ authors:
   - Mohendra Roy
     
 doi: https://doi.org/10.3390/bios12030144
-publication: In Biosensors 2022, 12(3), 144.
+publication: In Biosensors 2022, 12(3), 144
 
-# url_pdf: '/uploads/preprint-an-optimized-neural-network-architecture.pdf'
+url_pdf: 'https://arxiv.org/abs/2203.00899'
 
 abstract: 
 
