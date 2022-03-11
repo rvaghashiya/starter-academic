@@ -1,31 +1,32 @@
 ---
-title: An Optimized Neural Network Architecture for Auto Characterization of
-  Biological Cells in Digital Inline Holography Micrographs
+title: Machine Learning Based Lens-Free Shadow Imaging Technique for Field-Portable Cytometry
   
 publication_types:
-  - "1"
+  - "2"
   
 authors:
   - admin
+  - Sanghoon Shin
+  - Varun Chauhan
   - Kaushal Kapadiya
-  - Ishita Nandwani
-  - Riya Thakore
-  - Dongmin Seo
+  - Smit Sanghavi
   - Sungkyu Seo
   - Mohendra Roy
     
-doi: 10.1109/ICHI48887.2020.9374330
-publication: In 2020 IEEE International Conference on Healthcare Informatics (ICHI).
+doi: https://doi.org/10.3390/bios12030144
+publication: In Biosensors 2022, 12(3), 144.
 
-url_pdf: '/uploads/preprint-an-optimized-neural-network-architecture.pdf'
+# url_pdf: '/uploads/preprint-an-optimized-neural-network-architecture.pdf'
 
 abstract: 
 
 draft: false
 featured: true
 tags:
-  - AI
-  - Digital Inline Holographic Microscopy
+  - Machine Learning
+  - Shadow Imaging
+  - Field-Portable Cytometry
+  - Cell-line denoising
   - Cell-line classification
   - Point of Care Diagnosis
 
@@ -34,8 +35,8 @@ tags:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- intelligent-digital-inline-holographic-micrograph-dihm-cell-enhancement-and-characterization
+# projects:
+# - intelligent-digital-inline-holographic-micrograph-dihm-cell-enhancement-and-characterization
 
 image:
   filename: ""

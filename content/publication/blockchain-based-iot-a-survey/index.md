@@ -8,7 +8,7 @@ authors:
   - Chintan Patel
   - Nishant Doshi
 doi: https://doi.org/10.1016/j.procs.2019.08.101
-publication: In Procedia Computer Science, 2019
+publication: In Procedia Computer Science 2019, 155, 704.
 draft: false
 featured: true
 tags:
