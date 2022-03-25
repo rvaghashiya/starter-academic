@@ -30,9 +30,8 @@ design:
 ---
 Submitted Manuscripts: 
   * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted.
-  * Vaghashiya, R., Chauhan, V., Kapadiya, K., Sanghavi, S., Seo, S., & Roy, M. (2021). A smart and portable telemedicine device for auto characterization of pathological samples. Submitted.
 
 Ongoing projects:
   * MediSinGAN for medical image data augmentation (July 2021)
-  * GANs for the data augmentation of Digital Inline Holographic Microscopy images (June 2021)
-  * API for DIH-based cell-line identification and analysis (May 2021)
+  * GANs for the data augmentation of Digital Inline Holographic Microscopy cell-lines (Feb 2022)
+  * API for DIH-based cell-line identification and analysis (March 2022)
