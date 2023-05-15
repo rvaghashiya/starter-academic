@@ -6,20 +6,20 @@ title: Rajkumar Vaghashiya
 superuser: true
 
 # Role/position/tagline
-role: BTech in Computer Engineering
+role: MS in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Pandit Deendayal Energy University
-  url: https://www.pdpu.ac.in/
+- name: Saarland University
+  url: https://www.uni-saarland.de/en/home.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied artificial intelligence, computer vision, and digital health technology.
+bio: My research interests include applied machine learning, computer vision, and digital health technology.
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Machine Learning
 - Computer Vision
 - Digital Health Technology
 
@@ -32,9 +32,12 @@ education:
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
+  - course: MS in Computer Science
+    institution: Saarland University
+    year: 2023
   - course: BTech in Computer Engineering
     institution: Pandit Deendayal Energy University #(formerly Pandit Deendayal Petroleum University)
-    year: 2020
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rajkumar.vce16@sot.pdpu.ac.in #'/#contact'
+  link: mailto:rava00001@stud.uni-saarland.de #'/#contact'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,9 +77,9 @@ email: ""
 highlight_name: true
 ---
 
-I'm a recent graduate student from the Department of Computer Engineering at Pandit Deendayal Energy University.
+I am currently pursuing a Master's degree in Computer Science at Saarland University.
 
-I'm a prospective MS student interested in applied artificial intelligence, primarily deep learning, computer vision, and generative networks. I am interested in the applications of AI in interdisciplinary studies and the design of inclusive and accessible intelligent health systems.
+My principal research interests include applied machine learning, primarily deep learning, and computer vision. I am interested in the applications of AI in interdisciplinary studies and the design of inclusive and equitable intelligent systems.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

@@ -52,7 +52,7 @@ feature:
   icon_pack: fas
   name: Medical Imaging
 
-- description: English, Gujarati, Hindi
+- description: English, Gujarati, Hindi, German (Beginner)
   icon: globe
   icon_pack: fas
   name: Languages

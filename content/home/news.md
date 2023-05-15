@@ -32,6 +32,7 @@ Submitted Manuscripts:
   * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted.
 
 Ongoing projects:
-  * MediSinGAN for medical image data augmentation (July 2021)
-  * GANs for the data augmentation of Digital Inline Holographic Microscopy cell-lines (Feb 2022)
-  * API for DIH-based cell-line identification and analysis (March 2022)
+  * Applications of 3D Synthetic Data in Object Detection (Apr 2023)
+  * Sensing, Unterstanding, and Provisioning of Real-Time Digital Twins (Apr 2023)
+  * Synthetic cell-line generation for Lens-free Imaging Micrographs (Mar 2022)
+  * Generative Art (July 2022)
