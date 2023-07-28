@@ -47,7 +47,7 @@ feature:
   icon_pack: custom
   name: LaTex
  
-- description: Digital Inline Holography, Histopathology
+- description: Digital Inline Holography
   icon: microscope
   icon_pack: fas
   name: Medical Imaging

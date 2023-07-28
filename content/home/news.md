@@ -28,8 +28,8 @@ item:
 design:
   columns: '2' 
 ---
-Submitted Manuscripts: 
-  * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted.
+<!-- Submitted Manuscripts: 
+  * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted. -->
 
 Ongoing projects:
   * Applications of 3D Synthetic Data in Object Detection (Apr 2023)
