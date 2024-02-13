@@ -29,10 +29,16 @@ design:
   columns: '2' 
 ---
 <!-- Submitted Manuscripts: 
-  * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted. -->
+  * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted. 
+    * Synthetic cell-line generation for Lens-free Imaging Micrographs (Mar 2022)
+  * Generative Art (July 2022) -->
 
 Ongoing projects:
-  * Applications of 3D Synthetic Data in Object Detection (Apr 2023)
-  * Sensing, Unterstanding, and Provisioning of Real-Time Digital Twins (Apr 2023)
-  * Synthetic cell-line generation for Lens-free Imaging Micrographs (Mar 2022)
-  * Generative Art (July 2022)
+  <!-- * Applications of 3D Synthetic Data in Object Detection (Apr 2023)
+  * Sensing, Unterstanding, and Provisioning of Real-Time Digital Twins (Apr 2023) -->
+  * Engineering of Interactive Systems with GenAI (Nov 2023)
+
+Past Projects:
+
+  * 3D Pose Tracking using AlphaPose and MotionBERT for provisioning Digital Twins in Industry 4.0 (Sep 2023)
+  * Data synthesis for boosting product recognition in Retail (Sep 2023)

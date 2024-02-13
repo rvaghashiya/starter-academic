@@ -14,14 +14,14 @@ organizations:
   url: https://www.uni-saarland.de/en/home.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied machine learning, computer vision, and digital health technology.
+bio: My research interests include applied machine learning and computer vision.
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Machine Learning
 - Computer Vision
-- Digital Health Technology
+- Quantum Computing
 
 # Education to show in About widget
 education:

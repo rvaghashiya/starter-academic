@@ -15,6 +15,22 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
+# - description: 
+#   icon: opencv
+#   icon_pack: custom
+#   name: OpenCV
+
+# - description: 
+#   icon: flask
+#   icon_pack: custom
+#   name: Flask
+
+# - description: Digital Inline Holography
+#   icon: microscope
+#   icon_pack: fas
+#   name: Medical Imaging
+
 feature:
 
 - description: 
@@ -27,16 +43,6 @@ feature:
   icon_pack: fab
   name: Python
 
-- description: 
-  icon: opencv
-  icon_pack: custom
-  name: OpenCV
-
-- description: 
-  icon: flask
-  icon_pack: custom
-  name: Flask
-
 - description: Intel OpenVINO, PyTorch, JAX, Qiskit
   icon: laptop-code
   icon_pack: fas
@@ -46,13 +52,8 @@ feature:
   icon: latex
   icon_pack: custom
   name: LaTex
- 
-- description: Digital Inline Holography
-  icon: microscope
-  icon_pack: fas
-  name: Medical Imaging
 
-- description: English, Gujarati, Hindi, German (Beginner)
+- description: English, Gujarati, Hindi (C1) ; German (A2)
   icon: globe
   icon_pack: fas
   name: Languages
