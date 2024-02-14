@@ -59,8 +59,7 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         
-        * Developed an explainable ML pipeline for the diagnosis of Diabetic Retinopathy (DR) and Hypertensive
-Retinopathy (HTR) using biomarkers extracted from the retinal vasculature. Python, OpenCV
+        * Developed an explainable ML pipeline for the diagnosis of Diabetic Retinopathy (DR) and Hypertensive Retinopathy (HTR) using biomarkers extracted from the retinal vasculature. Python, OpenCV
         * Achieved AUC ∼ 0.70 for DR detection and stage-grading, 0.98 for HTR detection, 0.89 for HTR stage-grading
         
   - title: Teaching Assistant
