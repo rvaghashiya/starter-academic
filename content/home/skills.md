@@ -48,15 +48,15 @@ feature:
   icon_pack: fas
   name: Frameworks
 
-- description: 
-  icon: latex
-  icon_pack: custom
-  name: LaTex
+# - description: 
+#   icon: latex
+#   icon_pack: custom
+#   name: LaTex
 
-- description: English, Gujarati, Hindi (C1) ; German (A2)
-  icon: globe
-  icon_pack: fas
-  name: Languages
+# - description: English, Gujarati, Hindi (C1) ; German (A2)
+#   icon: globe
+#   icon_pack: fas
+#   name: Languages
 
 # - description: 90%
 #   icon: r-project

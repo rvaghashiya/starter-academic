@@ -38,12 +38,11 @@ date_format: Jan 2006
 
 experience:
 
- Oct 2023 — Mar 2024
   - title: Graduate Student Research Assistant (HiWi)
     company: Max Planck Institute for Informatics
     company_url: 'https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence'
     company_logo: org-mpi-logo-de
-    location: Saarbrücken, DE
+    location: Saarbruecken, DE
     date_start: '2023-10-01'
     date_end: '2024-03-31'
     description: |2-
