@@ -47,7 +47,7 @@ item:
   organization_url: https://www.pdpu.ac.in/
   title: B.Tech. CS Gold Medalist
   url: ""
-- certificate_url: https://blob.virtualbadge.io/event-156/certificate-d596d4b2-b5bd-474f-aa68-3cca88859130.png
+- certificate_url: ""
   date_end: "2021-02-28"
   date_start: "2021-02-25"
   description: ""

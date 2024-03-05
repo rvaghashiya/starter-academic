@@ -43,7 +43,7 @@ feature:
   icon_pack: fab
   name: Python
 
-- description: Intel OpenVINO, PyTorch, JAX, Qiskit
+- description: PyTorch, Qiskit, OpenVINO
   icon: laptop-code
   icon_pack: fas
   name: Frameworks

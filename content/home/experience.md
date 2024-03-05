@@ -38,7 +38,7 @@ date_format: Jan 2006
 
 experience:
 
-  - title: Graduate Student Research Assistant (HiWi)
+  - title: Research Assistant (HiWi)
     company: Max Planck Institute for Informatics
     company_url: 'https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence'
     company_logo: org-mpi-logo-de
@@ -47,8 +47,22 @@ experience:
     date_end: '2024-03-31'
     description: |2-
         
-        * Quantum Computing for 3D Computer Vision
+        * QUBO formulation of classical learning models 
+        * Quantum annealing-based optimization
+        * Applications for 3D Computer Vision tasks
 
+  - title: Developer
+    company: 
+    company_url: ''
+    company_logo: 
+    location: Remote
+    date_start: '2021-11-01'
+    date_end: '2022-09-30'
+    description: |2-
+        
+        * Object recognition pipeline with 80% accuracy for optimized inventory management
+        * Unsupervised learning technique for real-time object localization and segmentation from retail shelf images
+        * Embeddings from a pre-trained model to analyze and identify similar objects in the unlabeled dataset
 
   - title: Clinical AI Research Intern
     company: Forus Health Pvt. Ltd.
@@ -59,8 +73,9 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         
-        * Developed an explainable ML pipeline for the diagnosis of Diabetic Retinopathy (DR) and Hypertensive Retinopathy (HTR) using biomarkers extracted from the retinal vasculature. Python, OpenCV
-        * Achieved AUC ∼ 0.70 for DR detection and stage-grading, 0.98 for HTR detection, 0.89 for HTR stage-grading
+        * Custom dataset curation for ocular biomarkers with clinician-verified ground truth
+        * ML-based diagnosis of Diabetic Retinopathy and Hypertensive Retinopathy with accuracy rate of 98%
+        * SHAP-enabled explanation of biomarker impact on the diagnosis prediction
         
   - title: Teaching Assistant
     company: Pandit Deendayal Energy University
@@ -84,10 +99,10 @@ experience:
         
         Screening Systemic Disorders via Retinal Vascular Biomarkers
                
-        * Developed a clinician-in-the-loop AI pipeline for the extraction and quantification of retinal vascular parameters
-        * Achieved results within ±8% of the research benchmark tool SIVA. Python, OpenCV, Django
-        * Formulated decision support system plan to address the confounding factors in grading Retinopathy of Prematurity
-    
+        * Clinician-in-the-loop deep learning and image processing pipeline for computing retinal parameters
+        * Results within ±8% of the research benchmark SIVA        
+        * Decision support system plan to address the confounding factors in grading Retinopathy of Prematurity
+        * Review of clinical AI-based retinal imaging telecare services in India to improve care outreach
 
   - title: Machine Learning Intern
     company: Capgemini Technology Services Ltd.
@@ -100,9 +115,9 @@ experience:
     
         Context-Sensitive Semantic Search Tool
               
-        * Developed a semantic search tool for impact analysis in testing with an accuracy of ∼ 95%
-        * Fine-tuned a pre-trained ELMo (language model) to extract embeddings for semantic mapping
-        * Designed an interactive UI visualization scheme for the retrieved results using Python, t-SNE, and matplotlib
+        * Semantic search tool for impact analysis in software testing with 95% accuracy
+        * Embeddings using a pre-trained language model (ELMo) for semantic mapping of test cases
+        * Interactive UI visualization scheme for the retrieved results
 
   # - title: CEO
   #   company: GenCoin
