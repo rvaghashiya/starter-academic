@@ -57,7 +57,7 @@ experience:
     company_logo: org-mpi-logo-de
     location: Saarbruecken, DE
     date_start: '2023-10-01'
-    date_end: '2024-03-31'
+    date_end: '2024-08-31'
     description: |2-
         
         * QUBO formulation of classical learning models 
