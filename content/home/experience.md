@@ -38,6 +38,19 @@ date_format: Jan 2006
 
 experience:
 
+  - title: AIQX (AI and Data Science) Intern
+    company: BMW Group
+    company_url: 'https://www.bmwgroup.com/en.html'
+    company_logo: org-bmw-group_logo
+    location: Munich, DE
+    date_start: '2024-09-01'
+    date_end: '2025-02-28'
+    description: |2-
+        
+        * Anomaly detection models for multimodal data
+        * Cost savings through early error identification and reducing future servicing expenses
+        * Reliable real-time image analysis using Vision-Language models for Component Traceability
+
   - title: Research Assistant (HiWi)
     company: Max Planck Institute for Informatics
     company_url: 'https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence'
@@ -51,7 +64,7 @@ experience:
         * Quantum annealing-based optimization
         * Applications for 3D Computer Vision tasks
 
-  - title: Developer
+  - title: ML Developer
     company: 
     company_url: ''
     company_logo: 
@@ -61,7 +74,7 @@ experience:
     description: |2-
         
         * Object recognition pipeline with 80% accuracy for optimized inventory management
-        * Unsupervised learning technique for real-time object localization and segmentation from retail shelf images
+        * Unsupervised learning for real-time object localization and segmentation from retail shelf images
         * Embeddings from a pre-trained model to analyze and identify similar objects in the unlabeled dataset
 
   - title: Clinical AI Research Intern
@@ -73,13 +86,13 @@ experience:
     date_end: '2021-06-30'
     description: |2-
         
-        * Custom dataset curation for ocular biomarkers with clinician-verified ground truth
-        * ML-based diagnosis of Diabetic Retinopathy and Hypertensive Retinopathy with accuracy rate of 98%
-        * SHAP-enabled explanation of biomarker impact on the diagnosis prediction
+        * Curatation and clinical-verification of custom dataset for eye disease diagnosis
+        * Classification model using TensorFlow for disease severity grading with accuracy rate (AUC) 0.98
+        * SHAP-based explanation of biomarker influence on the model predictions
         
   - title: Teaching Assistant
     company: Pandit Deendayal Energy University
-    company_url: 'https://www.pdpu.ac.in/'
+    company_url: 'https://pdeu.ac.in/'
     company_logo: org-pdpu_logo
     location: Gandhinagar, IN
     date_start: '2020-09-01'
@@ -96,12 +109,9 @@ experience:
     date_start: '2020-01-13'
     date_end: '2020-07-31'
     description: |2-
-        
-        Screening Systemic Disorders via Retinal Vascular Biomarkers
-               
-        * Clinician-in-the-loop deep learning and image processing pipeline for computing retinal parameters
-        * Results within ±8% of the research benchmark SIVA        
-        * Decision support system plan to address the confounding factors in grading Retinopathy of Prematurity
+    
+        * Clinician-controlled image processing pipeline for disease parameter analysis
+        * Results within ±8% of the research benchmark SIVA in 3 months
         * Review of clinical AI-based retinal imaging telecare services in India to improve care outreach
 
   - title: Machine Learning Intern

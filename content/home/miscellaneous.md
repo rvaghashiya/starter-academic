@@ -27,12 +27,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: "2024-07-31"
+  date_end: ""
   date_start: "2023-08-01"
   description: ""
-  organization: Google Developer Student Clubs
-  organization_url: https://gdsc.community.dev/saarland-university/
-  title: Campus Lead
+  organization: Google Developer Groups on Campus
+  organization_url: https://gdg.community.dev/gdg-on-campus-saarland-university-saarbrucken-germany/
+  title: Campus Organizer
   url: ""
 - certificate_url: ""
   date_end: "2019-06-30"

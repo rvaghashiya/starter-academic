@@ -79,7 +79,7 @@ highlight_name: true
 
 I am currently pursuing a Master's degree in Computer Science at Saarland University.
 
-My principal research interests include applied machine learning, primarily deep learning, and computer vision. I am interested in the applications of ML in interdisciplinary studies to address real-world challenges and the design of inclusive and equitable intelligent systems.
+My principal research interests include applied machine learning, primarily deep learning, computer vision, and quantum computing. I am interested in the applications of ML in interdisciplinary studies to address real-world challenges and the design of inclusive and equitable intelligent systems.
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

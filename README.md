@@ -1,5 +1,5 @@
 # Academic Website of Rajkumar Vaghashiya
-Hi there! I'm Rajkumar Vaghashiya, a recent graduate from the Dept of CSE, School of Technology, Pandit Deendayal Energy University.
+Hi there! I'm Rajkumar Vaghashiya, a student at the Dept. of Computer Science, Saarland Informatics Campus, Saarland University.
 
 The website is built by the Academic theme for [**Hugo**](https://gohugo.io/) and [**Wowchemy**](https://wowchemy.com).
 
