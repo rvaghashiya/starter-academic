@@ -59,9 +59,6 @@ experience:
     date_end: '2025-02-28'
     description: |2-
         
-        # * Anomaly detection models for multimodal data
-        # * Cost savings through early error identification and reducing future servicing expenses
-        # * Reliable real-time image analysis using Vision-Language models for Component Traceability
         *  Built multimodal anomaly detection pipelines for automotive quality assurance, achieving 100% recall and over 95% precision on production data.
         * Developed a hybrid defect inspection pipeline combining foundational models, classical computer vision, and statistical
         methods, reducing manual audit time by 70%.
@@ -76,9 +73,6 @@ experience:
     date_end: '2024-08-31'
     description: |2-
         
-        # * QUBO formulation of classical learning models 
-        # * Quantum annealing-based optimization
-        # * Applications for 3D Computer Vision tasks
         *  Converted large-scale 3D vision datasets into binary representations via state-of-the-art autoencoder, reducing storage overhead by 35% while preserving fidelity.
         * Applied contrastive learning in PyTorch to enhance query retrieval, increasing matching accuracy by 52%.
         * Simulated quantum ML models for pattern retrieval, establishing feasibility of hybrid AI–quantum methods.
@@ -94,9 +88,6 @@ experience:
 
         Zero-shot Retail Object Recognition 
         
-        # * Object recognition pipeline with 80% accuracy for optimized inventory management
-        # * Unsupervised learning for real-time object localization and segmentation from retail shelf images
-        # * Embeddings from a pre-trained model to analyze and identify similar objects in the unlabeled dataset
         * Developed an object recognition pipeline for inventory management using TensorFlow and OpenCV, achieving >80% accuracy.
         * Applied unsupervised learning for real-time object segmentation of retail shelf images, reaching >90% accuracy.
         * Computed object recognition on unlabeled datasets via embedding similarity using pre-trained models for enhancing detection efficiency.
@@ -112,9 +103,6 @@ experience:
 
         AI-assisted Retinal Disease Prognosis
         
-        # * Curatation and clinical-verification of custom dataset for eye disease diagnosis
-        # * Classification model using TensorFlow for disease severity grading with accuracy rate (AUC) 0.98
-        # * SHAP-based explanation of biomarker influence on the model predictions
         * Implemented a TensorFlow-based classification model for disease severity grading, achieving AUC of 0.98.
         * Integrated SHAP for interpretability, quantifying parameter influence on model predictions.
         * Curated and clinically validated datasets for eye disease diagnosis, ensuring high-quality training data.
@@ -141,9 +129,6 @@ experience:
 
         Clinical Biomarker Assessments for Retinal Diseases
     
-        # * Clinician-controlled image processing pipeline for disease parameter analysis
-        # * Results within ±8% of the research benchmark SIVA in 3 months
-        # * Review of clinical AI-based retinal imaging telecare services in India to improve care outreach
         * Led a team of 5 interns to develop a clinician-controlled image processing pipeline for disease parameter analysis.
         * Achieved results within ±8% of research benchmark SIVA in 3 months using OpenCV and TensorFlow.
         * Conducted a review of AI-based retinal imaging telecare services in India to enhance clinical outreach.
@@ -158,14 +143,35 @@ experience:
     description: |2-
     
         Context-Sensitive Semantic Search Tool
-              
-        # * Semantic search tool for impact analysis in software testing with 95% accuracy
-        # * Embeddings using a pre-trained language model (ELMo) for semantic mapping of test cases
-        # * Interactive UI visualization scheme for the retrieved results
+        
         * Developed a semantic search tool for impact analysis in software testing, achieving 95% accuracy.
         * Generated embeddings using a pre-trained language model for semantic mapping of test cases.
         * Built an interactive visualization tool for search results using Python, t-SNE, and matplotlib.
 
+  # * Anomaly detection models for multimodal data
+  # * Cost savings through early error identification and reducing future servicing expenses
+  # * Reliable real-time image analysis using Vision-Language models for Component Traceability
+  
+  # * QUBO formulation of classical learning models 
+  # * Quantum annealing-based optimization
+  # * Applications for 3D Computer Vision tasks
+  
+  # * Object recognition pipeline with 80% accuracy for optimized inventory management
+  # * Unsupervised learning for real-time object localization and segmentation from retail shelf images
+  # * Embeddings from a pre-trained model to analyze and identify similar objects in the unlabeled dataset
+  
+  # * Curatation and clinical-verification of custom dataset for eye disease diagnosis
+  # * Classification model using TensorFlow for disease severity grading with accuracy rate (AUC) 0.98
+  # * SHAP-based explanation of biomarker influence on the model predictions
+  
+  # * Clinician-controlled image processing pipeline for disease parameter analysis
+  # * Results within ±8% of the research benchmark SIVA in 3 months
+  # * Review of clinical AI-based retinal imaging telecare services in India to improve care outreach
+  
+  # * Semantic search tool for impact analysis in software testing with 95% accuracy
+  # * Embeddings using a pre-trained language model (ELMo) for semantic mapping of test cases
+  # * Interactive UI visualization scheme for the retrieved results
+        
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''
