@@ -29,7 +29,8 @@ design:
   columns: '2' 
 ---
 
-Starting Master's thesis in AI and CV from 03/2025
+<!-- Searching for interesting topics to start my Master's thesis in the upcoming months -->
+Exploring potential topics for my Master’s thesis.
 <!-- Submitted Manuscripts: 
   * Kamaraj, P., Annamalai, A., Vaghashiya, R., Kulkarni, M., Kazi, A., & Appaji, A. (2021). Clinically Applicable Artificial Intelligence for Retinal Imaging based Teleophthalmology for Primary Eye Care in India: A Review. Submitted. 
     * Synthetic cell-line generation for Lens-free Imaging Micrographs (Mar 2022)

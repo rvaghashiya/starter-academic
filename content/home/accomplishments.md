@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2023-08-01"
+  description: ""
+  organization: Google Developer Groups on Campus
+  organization_url: https://gdg.community.dev/gdg-on-campus-saarland-university-saarbrucken-germany/
+  title: Campus Organizer
+  url: ""
 - certificate_url: https://www.credly.com/go/k3qSHcRz
   date_end: "2022-02-01"
   date_start: "2022-02-01"
@@ -31,14 +39,14 @@ item:
   organization_url: https://www.ibm.com/us-en/
   title: IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
   url: ""
-- certificate_url: https://coursera.org/verify/specialization/KX2SUNG642T5
-  date_end: "2021-09-21"
-  date_start: "2021-06-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Machine Learning Engineering for Production (MLOps) Specialization
-  url: ""
+# - certificate_url: https://coursera.org/verify/specialization/KX2SUNG642T5
+#   date_end: "2021-09-21"
+#   date_start: "2021-06-01"
+#   description: ""
+#   organization: Coursera
+#   organization_url: https://www.coursera.org
+#   title: Machine Learning Engineering for Production (MLOps) Specialization
+#   url: ""
 - certificate_url: https://www.coursera.org/verify/specialization/BTYQ6FHHB5J8
   date_end: "2021-04-12"
   date_start: "2021-02-07"

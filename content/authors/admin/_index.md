@@ -6,7 +6,7 @@ title: Rajkumar Vaghashiya
 superuser: true
 
 # Role/position/tagline
-role: MS in Computer Science
+role: MSc in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,12 @@ organizations:
   url: https://www.uni-saarland.de/en/home.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied machine learning and computer vision.
+bio: My research interests include applied AI, Computer Vision, and Quantum Computing.
 # My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Machine Learning
+- Applied AI
 - Computer Vision
 - Quantum Computing
 
@@ -52,13 +52,16 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar #graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai # fas
-  link: https://scholar.google.com/citations?user=2PrpeVAAAAAJ
+  link: https://scholar.google.com/citations?user=4SwgwNMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/rvaghashiya
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rajkumar-vaghashiya/
+- icon: xing
+  icon_pack: fab
+  link: https://www.xing.com/profile/Rajkumar_Vaghashiya
 - icon: cv
   icon_pack: ai
   link: uploads/Rajkumar_Vaghashiya_CV.pdf
@@ -77,9 +80,19 @@ email: ""
 highlight_name: true
 ---
 
-I am currently pursuing a Master's degree in Computer Science at Saarland University.
+### 👋 Hi there,
 
-My principal research interests include applied machine learning, primarily deep learning, computer vision, and quantum computing. I am interested in the applications of ML in interdisciplinary studies to address real-world challenges and the design of inclusive and equitable intelligent systems.
+I’m a MSc Computer Science student with 3+ years of experience in Deep Learning and Computer Vision. I specialize in developing robust AI systems that bridge cutting-edge research with real-world applications.
+
+I’m passionate about interdisciplinary AI applications to solve real-world challenges and translate AI insights into actionable decisions for optimizing critical workflows.
+
+😀 I'm always open to collaborations on AI, Computer Vision, and Applied Machine Learning projects.
+
+{{< icon name="download" pack="fas" >}} Check my {{< staticref "uploads/Rajkumar_Vaghashiya_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+<!-- I am currently pursuing a Master's degree in Computer Science at Saarland University.
+
+My principal research interests include applied machine learning, primarily deep learning, computer vision, and quantum computing. I am interested in the applications of ML in interdisciplinary studies to address real-world challenges and the design of inclusive and equitable intelligent systems. -->
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

@@ -29,4 +29,6 @@ design:
   columns: '2'
 ---
 
-I am always interested in learning and discussing latest research and collaborating on exciting interdisciplinary projects. Please feel free to reach out to me at the following:
+<!-- I am always interested in learning and discussing latest research and collaborating on exciting interdisciplinary projects. Please feel free to connect with me on socials or drop an email at the following: -->
+
+I’m always eager to explore the latest research and collaborate on interdisciplinary AI projects. Feel free to drop me an email!

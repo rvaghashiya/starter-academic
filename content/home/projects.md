@@ -29,10 +29,15 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Computer Vision
+    tag: Computer Vision
+  # - name: NLP
+  #   tag: NLP
   - name: Research
     tag: Research
-  - name: Other
-    tag: Other
+  - name: Miscellaneous
+    tag: Miscellaneous
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
