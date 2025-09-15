@@ -257,7 +257,7 @@ subtitle:
   #         icon: flag-germany
   #         icon_pack: custom
 
-features:
+feature:
 - description: 
   icon: tensorflow
   icon_pack: custom
