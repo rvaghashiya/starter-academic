@@ -39,30 +39,30 @@ feature:
     icon: python
     icon_pack: fab
   - name: C++
-    icon: code
-    icon_pack: fas
+    icon: cpp
+    icon_pack: custom
 
   # Deep Learning & AI
   - name: PyTorch
     icon: pytorch
-    icon_pack: fab
+    icon_pack: custom
   - name: TensorFlow
     icon: tensorflow
-    icon_pack: fab
-  - name: Keras
-    icon: brain
-    icon_pack: fas
+    icon_pack: custom
+  # - name: Keras
+  #   icon: brain
+  #   icon_pack: fas
   - name: Hugging Face
     icon: hf
-    icon_pack: fab
+    icon_pack: custom
 
   # Computer Vision
   - name: OpenCV
     icon: opencv
     icon_pack: custom
   - name: scikit-image
-    icon: images
-    icon_pack: fas
+    icon: scikit-image
+    icon_pack: custom
   - name: OpenVINO
     icon: openvino
     icon_pack: custom
@@ -71,12 +71,12 @@ feature:
   - name: Docker
     icon: docker
     icon_pack: fab
-  - name: Kubernetes
-    icon: kubernetes
-    icon_pack: fab
+  # - name: Kubernetes
+  #   icon: kubernetes
+  #   icon_pack: fab
   - name: Flask
     icon: flask
-    icon_pack: fas
+    icon_pack: custom
   - name: Git
     icon: git-alt
     icon_pack: fab
@@ -89,13 +89,13 @@ feature:
     icon: aws
     icon_pack: fab
   - name: GCP Vertex AI
-    icon: google-cloud
-    icon_pack: fab
+    icon: googlecloud
+    icon_pack: custom
 
   # Data Science & Visualization
   - name: NumPy
-    icon: square-root-alt
-    icon_pack: fas
+    icon: numpy
+    icon_pack: custom
   - name: Pandas
     icon: pandas
     icon_pack: custom
@@ -103,11 +103,11 @@ feature:
     icon: scikitlearn
     icon_pack: custom
   - name: Matplotlib
-    icon: chart-bar
-    icon_pack: fas
+    icon: matplotlib
+    icon_pack: custom
   - name: Seaborn
-    icon: seedling
-    icon_pack: fas
+    icon: seaborn
+    icon_pack: custom
   - name: Plotly
     icon: plotly
     icon_pack: custom
@@ -122,8 +122,8 @@ feature:
 
   # Languages
   - name: English
-    icon: flag-usa
-    icon_pack: fas
+    icon: flag-gb
+    icon_pack: custom
   - name: German
     icon: flag-de
     icon_pack: custom
