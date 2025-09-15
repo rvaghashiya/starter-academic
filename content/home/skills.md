@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -33,6 +33,106 @@ subtitle:
 #   icon_pack: fas
 #   name: Medical Imaging
 
+feature:
+  # Programming
+  - name: Python
+    icon: python
+    icon_pack: fab
+  - name: C++
+    icon: code
+    icon_pack: fas
+
+  # Deep Learning & AI
+  - name: PyTorch
+    icon: pytorch
+    icon_pack: fab
+  - name: TensorFlow
+    icon: tensorflow
+    icon_pack: fab
+  - name: Keras
+    icon: brain
+    icon_pack: fas
+  - name: Hugging Face
+    icon: hf
+    icon_pack: fab
+
+  # Computer Vision
+  - name: OpenCV
+    icon: opencv
+    icon_pack: custom
+  - name: scikit-image
+    icon: images
+    icon_pack: fas
+  - name: OpenVINO
+    icon: openvino
+    icon_pack: custom
+
+  # MLOps & Deployment
+  - name: Docker
+    icon: docker
+    icon_pack: fab
+  - name: Kubernetes
+    icon: kubernetes
+    icon_pack: fab
+  - name: Flask
+    icon: flask
+    icon_pack: fas
+  - name: Git
+    icon: git-alt
+    icon_pack: fab
+  - name: GitHub
+    icon: github
+    icon_pack: fab
+
+  # Cloud & Infrastructure
+  - name: AWS SageMaker
+    icon: aws
+    icon_pack: fab
+  - name: GCP Vertex AI
+    icon: google-cloud
+    icon_pack: fab
+
+  # Data Science & Visualization
+  - name: NumPy
+    icon: square-root-alt
+    icon_pack: fas
+  - name: Pandas
+    icon: pandas
+    icon_pack: custom
+  - name: Scikit-learn
+    icon: scikitlearn
+    icon_pack: custom
+  - name: Matplotlib
+    icon: chart-bar
+    icon_pack: fas
+  - name: Seaborn
+    icon: seedling
+    icon_pack: fas
+  - name: Plotly
+    icon: plotly
+    icon_pack: custom
+
+  # Environment & Design
+  - name: Linux
+    icon: linux
+    icon_pack: fab
+  - name: Figma
+    icon: figma
+    icon_pack: fab
+
+  # Languages
+  - name: English
+    icon: flag-usa
+    icon_pack: fas
+  - name: German
+    icon: flag-de
+    icon_pack: custom
+  # - name: Gujarati
+  #   icon: flag-in
+  #   icon_pack: custom
+  # - name: Hindi
+  #   icon: flag-in
+  #   icon_pack: custom
 # sections:
 
 #   - block: featurette
@@ -257,21 +357,21 @@ subtitle:
   #         icon: flag-germany
   #         icon_pack: custom
 
-feature:
-- description: 
-  icon: tensorflow
-  icon_pack: custom
-  name: TensorFlow-Keras
+# feature:
+# - description: 
+#   icon: tensorflow
+#   icon_pack: custom
+#   name: TensorFlow-Keras
 
-- description: 
-  icon: python
-  icon_pack: fab
-  name: Python
+# - description: 
+#   icon: python
+#   icon_pack: fab
+#   name: Python
 
-- description: PyTorch, Qiskit, OpenVINO
-  icon: laptop-code
-  icon_pack: fas
-  name: Frameworks
+# - description: PyTorch, Qiskit, OpenVINO
+#   icon: laptop-code
+#   icon_pack: fas
+#   name: Frameworks
 
 # - description: 
 #   icon: latex
@@ -310,4 +410,4 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
---- -->
+---
