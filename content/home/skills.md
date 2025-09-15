@@ -1,8 +1,8 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-# widget: featurette
-widget: page_builder
+widget: featurette
+# widget: page_builder
 
 # This file represents a page section.
 headless: true
@@ -33,143 +33,143 @@ subtitle:
 #   icon_pack: fas
 #   name: Medical Imaging
 
-sections:
+# sections:
 
-  - block: featurette
-    id: programming-languages
-    content:
-      title: Programming Languages
-      items:
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: C++
-          icon: code
-          icon_pack: fas
+#   - block: featurette
+#     id: programming-languages
+#     content:
+#       title: Programming Languages
+#       items:
+#         - name: Python
+#           icon: python
+#           icon_pack: fab
+#         - name: C++
+#           icon: code
+#           icon_pack: fas
 
-  - block: featurette
-    id: deep-learning-ai
-    content:
-      title: Deep Learning & AI
-      items:
-        - name: PyTorch
-          icon: pytorch
-          icon_pack: fab
-        - name: TensorFlow
-          icon: tensorflow
-          icon_pack: fab
-        - name: Keras
-          icon: brain
-          icon_pack: fas
-        - name: Hugging Face
-          icon: hf
-          icon_pack: fab
+#   - block: featurette
+#     id: deep-learning-ai
+#     content:
+#       title: Deep Learning & AI
+#       items:
+#         - name: PyTorch
+#           icon: pytorch
+#           icon_pack: fab
+#         - name: TensorFlow
+#           icon: tensorflow
+#           icon_pack: fab
+#         - name: Keras
+#           icon: brain
+#           icon_pack: fas
+#         - name: Hugging Face
+#           icon: hf
+#           icon_pack: fab
           
-  - block: featurette
-    id: computer-vision
-    content:
-      title: Computer Vision
-      items:
-        - name: OpenCV
-          icon: opencv
-          icon_pack: custom
-        - name: scikit-image
-          icon: images
-          icon_pack: fas
-        - name: OpenVINO
-          icon: openvino
-          icon_pack: custom
+#   - block: featurette
+#     id: computer-vision
+#     content:
+#       title: Computer Vision
+#       items:
+#         - name: OpenCV
+#           icon: opencv
+#           icon_pack: custom
+#         - name: scikit-image
+#           icon: images
+#           icon_pack: fas
+#         - name: OpenVINO
+#           icon: openvino
+#           icon_pack: custom
 
-  - block: featurette
-    id: mlops-deployment
-    content:
-      title: MLOps & Deployment
-      items:
-        - name: Docker
-          icon: docker
-          icon_pack: fab
-        - name: Kubernetes
-          icon: kubernetes
-          icon_pack: fab
-        - name: Flask
-          icon: flask
-          icon_pack: fas
-        - name: Git
-          # icon: git-alt
-          icon: git
-          icon_pack: fab
-        - name: GitHub
-          icon: github
-          icon_pack: fab
+#   - block: featurette
+#     id: mlops-deployment
+#     content:
+#       title: MLOps & Deployment
+#       items:
+#         - name: Docker
+#           icon: docker
+#           icon_pack: fab
+#         - name: Kubernetes
+#           icon: kubernetes
+#           icon_pack: fab
+#         - name: Flask
+#           icon: flask
+#           icon_pack: fas
+#         - name: Git
+#           # icon: git-alt
+#           icon: git
+#           icon_pack: fab
+#         - name: GitHub
+#           icon: github
+#           icon_pack: fab
 
-  - block: featurette
-    id: cloud-infrastructure
-    content:
-      title: Cloud & Infrastructure
-      items:
-        - name: AWS SageMaker
-          icon: aws
-          icon_pack: fab
-        - name: GCP Vertex AI
-          icon: google-cloud
-          icon_pack: fab
+#   - block: featurette
+#     id: cloud-infrastructure
+#     content:
+#       title: Cloud & Infrastructure
+#       items:
+#         - name: AWS SageMaker
+#           icon: aws
+#           icon_pack: fab
+#         - name: GCP Vertex AI
+#           icon: google-cloud
+#           icon_pack: fab
 
-  - block: featurette
-    id: data-science-visualization
-    content:
-      title: Data Science & Visualization
-      items:
-        - name: NumPy
-          icon: square-root-alt
-          icon_pack: fas
-        - name: Pandas
-          icon: pandas
-          icon_pack: custom
-        - name: Scikit-learn
-          icon: scikitlearn
-          icon_pack: custom
-        - name: Matplotlib
-          icon: chart-bar
-          icon_pack: fas
-        - name: Seaborn
-          icon: seedling
-          icon_pack: fas
-        - name: Plotly
-          icon: plotly
-          icon_pack: custom
+#   - block: featurette
+#     id: data-science-visualization
+#     content:
+#       title: Data Science & Visualization
+#       items:
+#         - name: NumPy
+#           icon: square-root-alt
+#           icon_pack: fas
+#         - name: Pandas
+#           icon: pandas
+#           icon_pack: custom
+#         - name: Scikit-learn
+#           icon: scikitlearn
+#           icon_pack: custom
+#         - name: Matplotlib
+#           icon: chart-bar
+#           icon_pack: fas
+#         - name: Seaborn
+#           icon: seedling
+#           icon_pack: fas
+#         - name: Plotly
+#           icon: plotly
+#           icon_pack: custom
 
-  - block: featurette
-    id: environment-design
-    content:
-      title: Environment & Design
-      items:
-        - name: Linux
-          icon: linux
-          icon_pack: fab
-        - name: Figma
-          icon: figma
-          icon_pack: fab
-        # - name: GitLab
-        #   icon: gitlab
-        #   icon_pack: fab        
+#   - block: featurette
+#     id: environment-design
+#     content:
+#       title: Environment & Design
+#       items:
+#         - name: Linux
+#           icon: linux
+#           icon_pack: fab
+#         - name: Figma
+#           icon: figma
+#           icon_pack: fab
+#         # - name: GitLab
+#         #   icon: gitlab
+#         #   icon_pack: fab        
 
-  - block: featurette
-    id: languages
-    content:
-      title: Languages
-      items:
-        - name: English
-          icon: flag-usa
-          icon_pack: fas
-        - name: German
-          icon: flag-de
-          icon_pack: custom
-        # - name: Gujarati
-        #   icon: flag-in
-        #   icon_pack: custom
-        # - name: Hindi
-        #   icon: flag-in
-        #   icon_pack: custom
+#   - block: featurette
+#     id: languages
+#     content:
+#       title: Languages
+#       items:
+#         - name: English
+#           icon: flag-usa
+#           icon_pack: fas
+#         - name: German
+#           icon: flag-de
+#           icon_pack: custom
+#         # - name: Gujarati
+#         #   icon: flag-in
+#         #   icon_pack: custom
+#         # - name: Hindi
+#         #   icon: flag-in
+#         #   icon_pack: custom
 
 
   # - block: featurette
@@ -257,20 +257,21 @@ sections:
   #         icon: flag-germany
   #         icon_pack: custom
 
-# - description: 
-#   icon: tensorflow
-#   icon_pack: custom
-#   name: TensorFlow-Keras
+features:
+- description: 
+  icon: tensorflow
+  icon_pack: custom
+  name: TensorFlow-Keras
 
-# - description: 
-#   icon: python
-#   icon_pack: fab
-#   name: Python
+- description: 
+  icon: python
+  icon_pack: fab
+  name: Python
 
-# - description: PyTorch, Qiskit, OpenVINO
-#   icon: laptop-code
-#   icon_pack: fas
-#   name: Frameworks
+- description: PyTorch, Qiskit, OpenVINO
+  icon: laptop-code
+  icon_pack: fas
+  name: Frameworks
 
 # - description: 
 #   icon: latex
