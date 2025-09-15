@@ -1,9 +1,11 @@
-# Academic Website of Rajkumar Vaghashiya
+<!-- # Academic Website of Rajkumar Vaghashiya
 Hi there! I'm Rajkumar Vaghashiya, a student at the Dept. of Computer Science, Saarland Informatics Campus, Saarland University.
 
 The website is built by the Academic theme for [**Hugo**](https://gohugo.io/) and [**Wowchemy**](https://wowchemy.com).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b60ec7a5-0b55-48f6-9247-b7cc9366a549/deploy-status)](https://app.netlify.com/sites/rajkumar-vaghashiya/deploys)
+
+--!>
 
 <!-- # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
