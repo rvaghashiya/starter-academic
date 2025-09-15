@@ -35,7 +35,7 @@ subtitle:
 
 sections:
 
-  - block: features
+  - block: featurette
     id: programming-languages
     content:
       title: Programming Languages
@@ -47,7 +47,7 @@ sections:
           icon: code
           icon_pack: fas
 
-  - block: features
+  - block: featurette
     id: deep-learning-ai
     content:
       title: Deep Learning & AI
@@ -65,7 +65,7 @@ sections:
           icon: hf
           icon_pack: fab
           
-  - block: features
+  - block: featurette
     id: computer-vision
     content:
       title: Computer Vision
@@ -80,7 +80,7 @@ sections:
           icon: openvino
           icon_pack: custom
 
-  - block: features
+  - block: featurette
     id: mlops-deployment
     content:
       title: MLOps & Deployment
@@ -102,7 +102,7 @@ sections:
           icon: github
           icon_pack: fab
 
-  - block: features
+  - block: featurette
     id: cloud-infrastructure
     content:
       title: Cloud & Infrastructure
@@ -114,7 +114,7 @@ sections:
           icon: google-cloud
           icon_pack: fab
 
-  - block: features
+  - block: featurette
     id: data-science-visualization
     content:
       title: Data Science & Visualization
@@ -138,7 +138,7 @@ sections:
           icon: plotly
           icon_pack: custom
 
-  - block: features
+  - block: featurette
     id: environment-design
     content:
       title: Environment & Design
@@ -153,7 +153,7 @@ sections:
         #   icon: gitlab
         #   icon_pack: fab        
 
-  - block: features
+  - block: featurette
     id: languages
     content:
       title: Languages
@@ -172,7 +172,7 @@ sections:
         #   icon_pack: custom
 
 
-  # - block: features
+  # - block: featurette
   #   id: python-libraries
   #   content:
   #     title: Python Libraries
@@ -197,7 +197,7 @@ sections:
   #         icon: tensorflow
   #         icon_pack: custom
 
-  # - block: features
+  # - block: featurette
   #   id: programming-languages
   #   content:
   #     title: Programming Languages
@@ -216,7 +216,7 @@ sections:
   #         icon: markdown
   #         icon_pack: fab
 
-  # - block: features
+  # - block: featurette
   #   id: development-tools
   #   content:
   #     title: Development Tools
@@ -241,7 +241,7 @@ sections:
   #         icon: canva
   #         icon_pack: custom
           
-  # - block: features
+  # - block: featurette
   #   id: languages
   #   content:
   #     title: Languages
